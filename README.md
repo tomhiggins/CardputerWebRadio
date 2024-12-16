@@ -1,6 +1,15 @@
 
 # M5Cardputer_WebRadio
 
+
+ToDo -
+----
+Add Ability to read a file of stations off of sd
+Add Ability to read a file of stations off of web
+
+
+
+----
 M5Cardputer_WebRadio baseado nas bibliotecas: 
 
 M5Unified : https://github.com/m5stack/M5Unified 
